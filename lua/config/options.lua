@@ -8,3 +8,8 @@ vim.g.autoformat = false
 vim.o.wrap = true
 vim.o.linebreak = true
 
+-- Whitespace character labelling
+vim.opt.listchars = {
+  space = "·",
+  tab = ">→",
+}
