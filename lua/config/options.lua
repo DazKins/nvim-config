@@ -1,5 +1,5 @@
 -- Disable mouse interactions
-vim.opt.mouse = ""
+-- vim.opt.mouse = ""
 
 -- Disable format on save
 vim.g.autoformat = false
